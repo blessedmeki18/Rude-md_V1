@@ -1,4 +1,4 @@
-function malvinid(num = 4) {
+function rudeid(num = 4) {
   let result = "";
   let characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
   var characters9 = characters.length;
@@ -7,4 +7,4 @@ function malvinid(num = 4) {
   }
   return result;
 }
-module.exports = {malvinid};
+module.exports = {rudeid};
