@@ -8,7 +8,7 @@ const {runtime} = require('../lib/functions')
 
 cmd({
     pattern: "owner",
-    desc: "owner the bot",
+    desc: "Rudedahboyyy",
     category: "owner",
     react: "👨‍💻",
     filename: __filename
@@ -19,16 +19,16 @@ try{
 
 let dec = `*👋 Hello ${pushname}*
 
-*👨‍💻Your Botname 👨‍💻*
+*👨‍💻RUDE-MD_V1 👨‍💻*
 
 > *𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢* 
 
-*⚡Owner name -: your name*
-*⚡Number* -: your number
+*⚡Owner name -: Rudedahboyyy*
+*⚡Number* -:263784945731
 
- ⚡️◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3
+ ⚡️◦ https://whatsapp.com/channel/0029VbAjBeuJ3juywGBNPT2u
 
-> *Powered by your name*
+> *Powered by Rudedahboyyy*
 `;
 await conn.sendMessage(from,{image:{url:config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -51,14 +51,14 @@ try{
 
 let dec = `*📍ℝ𝔼ℙ𝕆-𝕃𝕀ℕ𝕂 ❤️‍🔥👇*
 
-👨‍💻◦https://github.com/your github username/Botname
+👨‍💻◦https://github.com/bkessedmeki18/RUDE-MD_V1
 
 
 *📍ℙ𝕃𝔼𝔸𝕊𝔼 𝔽𝕆𝕃𝕃𝕆𝕎 𝕄𝕐 𝕎ℍ𝔸𝕋𝕊𝔸ℙℙ ℂℍ𝔸ℕℕ𝔼𝕃 ❤️‍🔥👇*
 
-👨‍💻◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+👨‍💻◦ https://whatsapp.com/channel/0029VbAjBeuJ3juywGBNPT2u
 
-> *Powered by yourname*
+> *Powered by Rudedahboyyy*
 `;
 await conn.sendMessage(from,{image:{url: config.MENU_IMG},caption:dec},{quoted:mek});
 
@@ -84,7 +84,7 @@ let status = `┌─────────────────────
 ├ 🧬 *Version:-* 1.0.0
 └───────────────────────
 
-> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 Your Botname*
+> *𝘗𝘖𝘞𝘌𝘙𝘌𝘋 𝘣𝘺 Your RUDE-MD_V1*
 `;
 return reply(`${status}`)
   
