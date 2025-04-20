@@ -1,115 +1,23 @@
+
 {
-  "name": "Rude md v1",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Rudedahboy ",
-  "logo": "https://files.catbox.moe/4tym3t.jpg",
-  "keywords": ["bot"],
-  "success_url": "/",
+    "name": "session name",
+    "description": "Web Session Generator",
+    "logo": "image url",
+    "repository": "https://github.com/username/sesssion name",
+    "keywords": ["Malvin-Tech"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "Just Leave This Blank",
+        "value": "",
+        "required": false 
+      }
+    }   
 
-    "stack": "container",
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true,
-      "value": ""
-    },  
-    
-    "ALIVE_IMG": {
-      "description": "https://files.catbox.moe/4tym3t.jpg.",
-      "required": true,
-      "value": "https://files.catbox.moe/4tym3t.jpg"
-    }, 
-    
-    "ALIVE_MSG": {
-      "description": "WASSUP BOMBOCLATE IM ALIVE HERE GO AND FUCK YOUR SELF.",
-      "required": true,
-      "value": "HI DEAR IM ONLINE.!!♻️"
-    },
-    
-    "PREFIX": {
-      "description": "!,.,?,@,&,$.",
-      "required": true,
-      "value": "."
-    },
-    
-    "MODE": {
-      "description": "public.",
-      "required": true,
-      "value": "public"
-    }, 
-
-    "AUTO_VOICE": {
-      "description": "False.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_REPLY": {
-      "description": "False.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "AUTO_STICKER": {
-      "description": "True.",
-      "required": true,
-      "value": "false"
-    }, 
-
-    "AUTO_READ_STATUS": {
-      "description": "False.",
-      "required": true,
-      "value": "true"
-    }, 
-
-    "ANTI_LINK": {
-      "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
-      "value": "true"
-    },
-
-    "ANTI_BAD": {
-      "description": "True.",
-      "required": true,
-      "value": "false"
-    }, 
-
-    "FAKE_RECORDING": {
-      "description": "True.",
-      "required": true,
-      "value": "true"
-    },
-
-    "AUTO_REACT": {
-      "description": "False.",
-      "required": false,
-      "value": "false"
-    },
-
-    "OWNER_REACT": {
-      "description": "False.",
-      "required": false,
-      "value": "false"
-    
-    }, 
-
-    "BOT_NAME": {
-      "description": "RUDE-MD_V1.",
-      "required": true,
-      "value": "✦『RUDE-MD_V1』✦"
-    }, 
-
-    "HEART_REACT": {
-      "description": "False.",
-      "required": true,
-      "value": "false"
-    }
-
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-24"
 }
