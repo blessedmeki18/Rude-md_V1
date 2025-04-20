@@ -13,7 +13,7 @@
 
 # `Owner`
 
- <a href="https://github.com/blessedmeki18"><img src="https://files.catbox.moe/4tym3t.jpg" width="250" height="250" alt="Rude md v1"/></a>
+ <a href="https://github.com/MALVIN-XD"><img src="https://files.catbox.moe/4tym3t.jpg" width="250" height="250" alt="Rude md v1"/></a>
 
 <p align="center">
   <img src="*UPLOAD SUCCESSFUL!!*
