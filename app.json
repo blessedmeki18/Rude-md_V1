@@ -1,5 +1,5 @@
 {
-  "name": "FUDE-MD_V1",
+  "name": "RUDE-MD_V1",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ RUDE-MD_V1 ",
   "logo": "https://files.catbox.moe/4tym3t.jpg",
   "keywords": ["bot"],
@@ -38,68 +38,68 @@
     }, 
 
     "AUTO_VOICE": {
-      "description": "Make it true if you want bot auto voice.",
+      "description": "False.",
       "required": true,
       "value": "true"
     }, 
 
     "AUTO_REPLY": {
-      "description": "Make it true if you want bot auto reply.",
+      "description": "False.",
       "required": true,
       "value": "true"
     }, 
 
     "AUTO_STICKER": {
-      "description": "Make it true if you want bot auto sticker.",
+      "description": "True.",
       "required": true,
       "value": "false"
     }, 
 
     "AUTO_READ_STATUS": {
-      "description": "Make it true if you want bot auto auto_read_status.",
+      "description": "True.",
       "required": true,
       "value": "true"
     }, 
 
     "ANTI_LINK": {
-      "description": "Make it true if you want bot auto remove group link.",
+      "description": "True.",
       "required": true,
       "value": "true"
     },
 
     "ANTI_BAD": {
-      "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
+      "description": "True.",
       "required": true,
       "value": "false"
     }, 
 
     "FAKE_RECORDING": {
-      "description": "Make it true if you want bot fake record.",
+      "description": "True.",
       "required": true,
       "value": "true"
     },
 
     "AUTO_REACT": {
-      "description": "Make it true if you want bot AutoReact.",
+      "description": "False.",
       "required": false,
       "value": "false"
     },
 
     "OWNER_REACT": {
-      "description": "Make it true if you want bot OwnerReact.",
+      "description": "False.",
       "required": false,
       "value": "false"
     
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "RUDE-MD_V1.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『RUDE-MD_V1』✦"
     }, 
 
     "HEART_REACT": {
-      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "description": "False.",
       "required": true,
       "value": "false"
     }
