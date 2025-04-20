@@ -93,9 +93,9 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 caption: `
 *💗 Image ${i + 1} from your search! 💗*
 
- *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 your Botname 👾*
+ *©  𝖦𝖤𝖭𝖤𝖱𝖠𝖳𝖤𝖣 𝖡𝖸 RUDE-MD_V1 👾*
 
-> 🥷🏽 Your Botname 🥷🏽`
+> 🥷🏽 RUDE-MD_V1 🥷🏽`
 }, { quoted: mek });
 }
 
