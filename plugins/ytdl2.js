@@ -29,7 +29,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╔═══〔 *𓆩Your BOTNAME ᪳𓆪* 〕═══❒
+        let ytmsg = `╔═══〔 *𓆩RUDE-MD_V1 ᪳𓆪* 〕═══❒
 ║╭───────────────◆  
 ║│ *❍ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ*
 ║╰───────────────◆
@@ -41,7 +41,7 @@ cmd({
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-> *Powered by yourname*`;
+> *Powered by Rudedahboyyy*`;
 
         // Send video details
         await conn.sendMessage(from, { image: { url: data.result.thumbnail || '' }, caption: ytmsg }, { quoted: mek });
@@ -90,7 +90,7 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╔═══〔 *𓆩Your Botname𓆪* 〕═══❒
+    let ytmsg = `╔═══〔 *𓆩RUDE-MD_V1𓆪* 〕═══❒
 ║╭───────────────◆  
 ║│ **❍ auᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ**
 ║╰───────────────◆
@@ -102,7 +102,7 @@ const yt = await ytsearch(q);
 ║ ⿻ *ᴀᴜᴛʜᴏʀ:*  ${yts.author.name}
 ║ ⿻ *ʟɪɴᴋ:*  ${yts.url}
 ╚══════════════════❒
-Powered by your name 🍉*`;
+Powered by Rudedahboyyy 🍉*`;
 
 
 
@@ -117,7 +117,7 @@ Powered by your name 🍉*`;
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© Powered by your name 🎐*`
+        caption: `> *© Powered by Rudedahboyyy 🎐*`
     }, { quoted: mek });
 
 } catch (e) {
