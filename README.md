@@ -16,7 +16,11 @@
  <a href="https://github.com/blessedmeki18"><img src="https://files.catbox.moe/4tym3t.jpg" width="250" height="250" alt="Rude md v1"/></a>
 
 <p align="center">
-  <img src="https://files.catbox.moe/tjflk3.jpg" />
+  <img src="*UPLOAD SUCCESSFUL!!*
+
+> *URL:*
+
+https://files.catbox.moe/03v0ks.jpg" />
 </p>
 
 <p align="center">
@@ -74,13 +78,13 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
   <img src="https://i.imgur.com/LyHic3i.gif" />
 </p>
 
-### 🚀 Deploy MALVIN-XD
+### 🚀 Deploy RUDE MD V1
 
-[![Launch MALVIN-XD](https://img.shields.io/badge/Launch-MALVIN--XD-%23FF005C?style=for-the-badge&logo=githubactions&logoColor=white)](https://malvin-pair-j60i.onrender.com/)
+[![Launch RUDE MD V1](https://img.shields.io/badge/Launch-MALVIN--XD-%23FF005C?style=for-the-badge&logo=githubactions&logoColor=white)](https://malvin-pair-j60i.onrender.com/)
 
 ---
 
-### 📥 Get MALVIN-XD
+### 📥 Get RUDE MD V1
 
 [![Download Bot File](https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip)
 
@@ -98,8 +102,8 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
 
 ### 💡 Credits & Contributors
 
-> **MALVIN XD Owner**  
-- [Malvin King](https://github.com/XdKing2) - **Creator & Maintainer**  
+> **RUDEDAHBOY Owner**  
+- [RUDE MD V1](https://github.com/blessedmeki18) - **Creator & Maintainer**  
 - Contributions include **bot plugins, command files, and script optimizations.**
 
 ---
