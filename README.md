@@ -20,7 +20,7 @@
 
 > *URL:*
 
-https://files.catbox.moe/03v0ks.jpg" />
+src="" />
 </p>
 
 <p align="center">
