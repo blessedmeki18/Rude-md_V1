@@ -1,16 +1,16 @@
 {
-  "description": "session name",
-  "main": "./malvin.js",
+  "description": "RUDE-MD_V1",
+  "main": "./rude.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "pm2 start malvin.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "start": "pm2 start rude.js --deep-monitoring --attach --name rude",
+    "stop": "pm2 stop rude",
+    "restart": "pm2 restart rude"
   },
-  "author": "Malvin Tech",
+  "author": "Rudedahboyyy",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.7",
