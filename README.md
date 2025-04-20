@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/03v0ks.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/2prjby.jpg" />
+  <img src="https://files.catbox.moe/tjflk3.jpg" />
 </p>
 
 ## 📊 Repo Insights
@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/2hfjqs.jpg" />
 </p>
 
-**MALVIN-XD** is a cutting-edge bot framework built by [Malvin King](https://github.com/XdKing2).  
+**RUDE-MD_V1** is a cutting-edge bot framework built by [RRudedahboy](https://github.com/blessedmeki18).  
 Designed for seamless automation, interactive chat capabilities, and easy deployment, it's a perfect choice for developers and bot enthusiasts. 🚀
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/4tym3t.jpg" />
 </p>
 
 ### 🏆 Features
@@ -35,13 +35,13 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
 - 📌 **User-Friendly Interface** - Simple setup and usage  
 
 <p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/fork">
+  <a href="https://github.com/blessedmeki18/Rude-md_v1/fork">
     <img src="https://img.shields.io/badge/Fork-MALVIN--XD-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/4tym3t.jpg" />
 </p>
 
 ### ⚙️ If pair session from Deploy Site is not working:
@@ -54,21 +54,21 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
 [![USE CREDS.JSON](https://img.shields.io/badge/creds-Pair-%2393FF005C?style=for-the-badge&logo=github&logoColor=white)](https://sahas-md-pair-web-ibx9.onrender.com/)
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/4tym3t.jpg" />
 </p>
 
 ### 🚀 Deploy MALVIN-XD
 
-[![Launch MALVIN-XD](https://img.shields.io/badge/Launch-MALVIN--XD-%23FF005C?style=for-the-badge&logo=githubactions&logoColor=white)](https://malvin-pair-j60i.onrender.com/)
+[![Launch RUDE-MD_V1](https://img.shields.io/badge/Launch-MALVIN--XD-%23FF005C?style=for-the-badge&logo=githubactions&logoColor=white)](https://malvin-pair-j60i.onrender.com/)
 
 ---
 
-### 📥 Get MALVIN-XD
+### 📥 Get RUDE-MD_V1
 
 [![Download Bot File](https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip)
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/4tym3t.jpg" />
 </p>
 
 ### ⚠️ Disclaimer
@@ -81,27 +81,28 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
 
 ### 💡 Credits & Contributors
 
-> **MALVIN XD Owner**  
-- [Malvin King](https://github.com/XdKing2) - **Creator & Maintainer**  
+> **RUDE-MD_V1Owner**  
+- [Rudedahboyyy](https://github.com/blessedmeki18) - **Creator & Maintainer**  
 - Contributions include **bot plugins, command files, and script optimizations.**
 
 ---
 
-### 🔥 Stay Connected with the MALVIN-XD Universe
+### 🔥 Stay Connected with the RUDE-MD_V1 Universe
 
 > **Power up your dev journey – don’t miss updates, guides, or new commands!**
 
 - **📢 WhatsApp Channel** – Get instant updates, feature drops & dev alerts  
-  [![WhatsApp Channel](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A)  
+  [![WhatsApp Channel](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](CHANNEL LINK
+https://whatsapp.com/channel/0029VbAjBeuJ3juywGBNPT2u)  
 
-- **▶️ YouTube: MalvinTech** – Watch tutorials, pro tricks, and setup walkthroughs  
-  [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+- **▶️ YouTube: RudedahboyTech** – Watch tutorials, pro tricks, and setup walkthroughs  
+  [![YouTube Channel](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Futurekid-c5z)
 
 ---
 
-> ⚔️ *Join the MALVIN-XD squad. Anime vibes. Dev pride. Future-coded.*  
+> ⚔️ *Join the RUDE-MD_V1squad. Anime vibes. Dev pride. Future-coded.*  
 **Stay legendary, coder. Happy hacking!** 🚀
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/4tym3t.jpg" />
 </p>
