@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: MALVIN
+    name: RUDE
     env: docker
-    region: Frankfurt
+    region: Zimbabwe
     plan: free
