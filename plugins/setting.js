@@ -41,7 +41,7 @@ cmd({
         };
 
         // Create the settings message with the updated format
-        let madeSetting = `╭───⚙️ *${config.BOT_NAME} Settings* ⚙️───╮
+        let madeSetting = `╭───⚙️ *${config.RUDE_MD_V1} Settings* ⚙️───╮
 │
 │ 🟢 *➤ Auto Read Status*: ${statusIcon(config.AUTO_READ_STATUS)}
 │ ⚙️ *➤ Mode*: *${config.MODE}*
@@ -56,11 +56,11 @@ cmd({
 │ 😀 *➤ Auto React*: ${statusIcon(config.AUTO_REACT)}
 │ ❤️ *➤ Heart React*: ${statusIcon(config.HEART_REACT)}
 │ 👑 *➤ Owner React*: ${statusIcon(config.OWNER_REACT)}
-│ 🤖 *➤ Bot Name*: *${config.BOT_NAME}*
+│ 🤖 *➤ Bot Name*: *${config.RUDE_MD_V1}*
 │
 ╰──────────────────────────╯
 
-*🌟DEVELOPED BY Your Name🌟*
+*🌟DEVELOPED BY Rudedahboyyy🌟*
 `;
 
         // Send the settings message with the updated format
