@@ -24,7 +24,7 @@ https://files.catbox.moe/03v0ks.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/tjflk3.jpg" />
+  <img src="https://files.catbox.moe/03v0ks.jpg" />
 </p>
 
 ## 📊 Repo Insights
