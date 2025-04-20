@@ -1,7 +1,7 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
-  "logo": "your image url",
+  "name": "FUDE-MD_V1",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ RUDE-MD_V1 ",
+  "logo": "https://files.catbox.moe/4tym3t.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,25 +14,25 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://files.catbox.moe/tjflk3.jpg.",
       "required": true,
       "value": "your image url"
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "wassup bomboclate im alive go and fuck your self.",
       "required": true,
       "value": "HI DEAR IM ONLINE.!!♻️"
     },
     
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": ".,!,.",
       "required": true,
       "value": "."
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "public.",
       "required": true,
       "value": "public"
     }, 
