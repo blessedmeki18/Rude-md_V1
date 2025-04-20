@@ -56,7 +56,7 @@ Designed for seamless automation, interactive chat capabilities, and easy deploy
 - 📌 **User-Friendly Interface** - Simple setup and usage  
 
 <p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/fork">
+  <a href="https://github.com/blessedmeki18/Rude-md_v1/fork">
     <img src="https://img.shields.io/badge/Fork-MALVIN--XD-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
