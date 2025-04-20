@@ -1,6 +1,6 @@
-/*created by King Malvin 🕵
-contact dev1 263780934873 ♻️
-contact dev2 https://t.me/malvinking2 ♻️
+/*created by Rudedahboyyy 🕵
+contact dev1 263783945731 ♻️
+contact dev2 https://t.me/blessedmeki18 ♻️
 © just give credit will you ⚠
 */
 
@@ -41,10 +41,10 @@ let madeMenu = `*╭─────────────────❒⁠⁠
      *${pushname}*
 
 ┏━━━━━━━━━━━━━━━━━━━━
-   *Welcome to Botname 2nd Menu*
+   *Welcome to RUDE-MD_V1 2nd Menu*
 ┗━━━━━━━━━━━━━━━━━━━━
 
-*Created by your name👨🏻‍💻*
+*Created by Rudedahboyyy👨🏻‍💻*
 
 
 *╭───────────────❒⁠⁠⁠⁠*
@@ -94,7 +94,7 @@ ${menu.search}
 *╰──────────●●►*
 
 
-> *Powered by botname*
+> *Powered by RUDE-MD_V1*
 
 `;
 
